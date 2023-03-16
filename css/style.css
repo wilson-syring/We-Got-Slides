@@ -4,7 +4,7 @@ html {
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
-    color: #000000;
+    color: #00000a;
 }
 
 body {
@@ -22,7 +22,7 @@ h1 {
 .site-wrap {
     max-width: 700px;
     margin: 100px auto;
-    background: orange;
+    background: #63b222;
     padding: 40px;
     text-align: justify;
 }
