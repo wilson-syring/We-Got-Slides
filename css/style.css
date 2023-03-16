@@ -1,3 +1,11 @@
+@font-face {
+    font-family: heavyMetal;
+    src: url("/HeavyMetal.ttf");
+}
+h1{
+    font-family: heavyMetal;
+    text-align: center;
+}
 html {
     box-sizing: border-box;
     background: rebeccapurple;
