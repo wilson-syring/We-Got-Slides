@@ -13,3 +13,7 @@ function debounce(func, wait = 20, immediate = true) {
     };
 };
  const sliderImages= document.querySelectorAll('.slide-in');
+ function checkSlide(e){
+
+ }
+ window.addEventListener('scroll',debounce(checkSlide));
